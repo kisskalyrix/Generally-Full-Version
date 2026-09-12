@@ -233,4 +233,4 @@ This repository serves as the official landing page for GeneRally. The software 
 **Get the most recent version of GeneRally today!**
 
 ---
-**Last updated:** 2026-09-12 07:36:29 UTC
+**Last updated:** 2026-09-12 11:54:46 UTC
